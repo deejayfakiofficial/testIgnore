@@ -9,6 +9,7 @@ import UIKit
 import SnapKit
 
 class ViewController: UIViewController {
+    let a = "222"
 
     override func viewDidLoad() {
         super.viewDidLoad()
